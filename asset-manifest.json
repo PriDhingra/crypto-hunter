@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-hunter/static/css/main.a1bc8792.css",
+    "main.js": "/crypto-hunter/static/js/main.ad099410.js",
+    "index.html": "/crypto-hunter/index.html",
+    "main.a1bc8792.css.map": "/crypto-hunter/static/css/main.a1bc8792.css.map",
+    "main.ad099410.js.map": "/crypto-hunter/static/js/main.ad099410.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bc8792.css",
+    "static/js/main.ad099410.js"
+  ]
+}
